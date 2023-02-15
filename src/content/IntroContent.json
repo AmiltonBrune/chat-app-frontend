@@ -1,0 +1,13 @@
+{
+  "title": "Chat to connect your friends.",
+  "text": "Solution developed using React.js, Node.js, ant design and styled-components! Chat with your friends and create rooms to talk about specific topics.",
+  "button": [
+    {
+      "title": "Get started"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
