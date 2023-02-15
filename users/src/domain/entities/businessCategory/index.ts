@@ -1,1 +1,0 @@
-export { BusinessCategory } from './businesscategory.entity'

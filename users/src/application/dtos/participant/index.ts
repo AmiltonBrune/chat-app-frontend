@@ -1,6 +1,0 @@
-export { ParticipantReadDto } from './participantread.dto'
-export { ParticipantVerificationDto } from './participant-verification.dto'
-export { ParticipantImportDto, RegisterParticipantImportDto } from './participantimport.dto'
-export { ParticipantCleanDto } from './participantclean.dto'
-export { ParticipantImportPlanilheiroDto, RegisterImportDto } from './participantimportplanilheiro.dto'
-export { ParticipantAddressDto } from './participantaddress.dto'

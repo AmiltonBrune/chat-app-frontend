@@ -1,1 +1,0 @@
-export { ResultReconheceDto } from './result-reconhece.dto'
